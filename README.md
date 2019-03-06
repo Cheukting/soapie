@@ -1,10 +1,12 @@
-# [ Project Title ]
+# Soapie
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+Internet opens a window for people to "see" the world and it should be for everyone to "see".
 
-[ If you have one, add your logo or an image here ]
+Everyday we are browsing the internet, getting lots of information form it. Some of them are in the form of text, some of them are in the form of sound or viedo, some of them are in the form of pictures. Imagine if we cannot see any of those with out eyes, how we gonna get information form it? Luckily, with technology, we have accessibility tools like text to speach changing text into audio form. However, we still can't see pictures with our eyes, or experience it as if we can touch or feel what's in the picture.
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+We are working with Software Engineers and Data Scientists to build an open source auto-captioning tool to blind people so that they can use “see” the images on the internet. It's also enabling developers easier way to integrate auto-captioning as a part of web accessibility.
+
+If you think you could help to make internet a more accessible place to all. Please join us!
 
 ## Getting Started
 
